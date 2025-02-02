@@ -1,0 +1,21 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_ConfigFilePath",
+      "DisplayName": "in_ConfigFilePath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\MII\\A8_Automation\\Data\\Config-A8 Download Automation.xlsx",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
